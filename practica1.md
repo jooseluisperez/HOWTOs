@@ -64,6 +64,7 @@ Address           |       HWtype | HWaddress         |  Flags Mask      |       
 >NETMASK=255.255.255.0
 
 >TYPE=Ethernet
+
 	* **nmcli con reload**
 	* **nmcli con up**
 
